@@ -111,7 +111,7 @@
         },
         {
             "label": "docker-cleanup | push to github",
-            "command": "git push --set-upstream origin",
+            "command": "git push --set-upstream origin master",
             "type": "shell",
             "group": "build",
             "problemMatcher": [
